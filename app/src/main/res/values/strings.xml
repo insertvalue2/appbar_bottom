@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyLayout</string>
+    <string name="page_title">My App</string>
+    <string name="text_label_1">list</string>
+    <string name="text_label_2">users</string>
+    <string name="text_label_3">web</string>
+    <string name="text_label_4">myInfo</string>
+</resources>
